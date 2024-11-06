@@ -7,7 +7,7 @@ public class Main {
     /**
      * Calcule la factorielle d'un entier positif
      * @param x;
-     * @return x * Fact(x-1)
+     * @return x!
      */
     public static int Fact(int x){
         if(x==1){
